@@ -973,10 +973,10 @@
   resolved "https://registry.yarnpkg.com/@types/faker/-/faker-5.5.9.tgz#588ede92186dc557bff8341d294335d50d255f0c"
   integrity sha512-uCx6mP3UY5SIO14XlspxsGjgaemrxpssJI0Ol+GfhxtcKpv9pgRZYsS4eeKeHVLje6Qtc8lGszuBI461+gVZBA==
 
-"@types/google.maps@^3.47.1":
-  version "3.47.1"
-  resolved "https://registry.yarnpkg.com/@types/google.maps/-/google.maps-3.47.1.tgz#53191802a51499802bfd133c2f987bfac5e7c660"
-  integrity sha512-GNB4VH8fItMk1juxLfJmAAQ97rzBnxHCUc2x+UjN5lpiHMEdJuJK4Bmcv7PMefwIUNajnOXpHjkS+Q6TOQo+VQ==
+"@types/google.maps@^3.47.2":
+  version "3.47.2"
+  resolved "https://registry.yarnpkg.com/@types/google.maps/-/google.maps-3.47.2.tgz#112484a9b334df7ffa3ec16658dd0a9dfc2ef39d"
+  integrity sha512-mFmt428CY4UN49U8KH5J4RfcdkeRu6SZyPIXxU1MA0pnHb4pqn/c/whawTodB3pkKWe8F9fXfUlpBFsk9HucXw==
 
 "@types/q@^1.5.1":
   version "1.5.5"
